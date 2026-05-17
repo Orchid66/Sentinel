@@ -38,7 +38,7 @@ Sentinel operates by intercepting DNS traffic from monitored applications. When 
 Sentinel is built with privacy at its core:
 - **No Data Collection**: All monitoring and analysis happen strictly on-device.
 - **Local VPN**: The VPN service is purely local; no traffic is routed to external servers.
-- **Transparent Logic**: All privacy decisions are documented and visible in the code.
+- **Transparent Logic**: All privacy decisions are documented and visible clearly in the code.
 
 ---
 *Stay informed. Stay secure. Stay Sentinel.*
